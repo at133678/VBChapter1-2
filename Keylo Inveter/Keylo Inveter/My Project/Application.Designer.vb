@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Keylo_Inveter.Form1
+            Me.MainForm = Global.Keylo_Inveter.KiloVerbTurm
         End Sub
     End Class
 End Namespace
